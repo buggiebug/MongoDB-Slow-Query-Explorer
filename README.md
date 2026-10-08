@@ -1,4 +1,4 @@
-# QueryLens — MongoDB Slow Query Explorer
+# QueryLens — [MongoDB Slow Query Explorer](https://buggiebug.github.io/MongoDB-Slow-Query-Explorer)
 
 A small, dependency-free browser app for reading MongoDB slow-query logs clearly. It imports `.log`, `.txt`, `.json`, and `.jsonl` files, finds slow-query events, and shows the command, execution stats, and query plan.
 
